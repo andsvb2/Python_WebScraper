@@ -1,0 +1,7 @@
+content:
+- Theory
+- Encode() and bytes()
+- Single integer conversion
+- Decipher a message
+- Bytes slices
+- Byteorder
